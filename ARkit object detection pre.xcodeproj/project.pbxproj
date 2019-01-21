@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C2358F221C8A13800C4DA49 /* test.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C2358F121C8A13800C4DA49 /* test.sks */; };
+		6C23590221D1957400C4DA49 /* yazirusi.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C23590121D1957400C4DA49 /* yazirusi.sks */; };
+		6C66637321EF398C008163B4 /* testAllow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C66637221EF398C008163B4 /* testAllow.sks */; };
+		6C66637521EF47EF008163B4 /* telphone.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C66637421EF47EF008163B4 /* telphone.sks */; };
+		6C66637721EF4970008163B4 /* autoenpitsukezuri.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C66637621EF4970008163B4 /* autoenpitsukezuri.sks */; };
+		6C66637921EF4B17008163B4 /* tennnennsui.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C66637821EF4B16008163B4 /* tennnennsui.sks */; };
+		6C66637B21EFA9A4008163B4 /* tennennsuiAllow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C66637A21EFA9A4008163B4 /* tennennsuiAllow.sks */; };
+		6C66637D21F0282C008163B4 /* autoenpitsukezuriAllow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C66637C21F0282C008163B4 /* autoenpitsukezuriAllow.sks */; };
+		6C66637F21F02843008163B4 /* telphoneAllow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C66637E21F02843008163B4 /* telphoneAllow.sks */; };
+		6C9DD24B21E38D0A0049584B /* 1401224.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9DD24A21E38D0A0049584B /* 1401224.png */; };
 		6CC7000521C0CB03001F7113 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CC7000421C0CB03001F7113 /* AppDelegate.swift */; };
 		6CC7000721C0CB03001F7113 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CC7000621C0CB03001F7113 /* art.scnassets */; };
 		6CC7000921C0CB03001F7113 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CC7000821C0CB03001F7113 /* ViewController.swift */; };
@@ -16,6 +26,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C2358F121C8A13800C4DA49 /* test.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = test.sks; sourceTree = "<group>"; };
+		6C23590121D1957400C4DA49 /* yazirusi.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = yazirusi.sks; sourceTree = "<group>"; };
+		6C66637221EF398C008163B4 /* testAllow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = testAllow.sks; sourceTree = "<group>"; };
+		6C66637421EF47EF008163B4 /* telphone.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = telphone.sks; sourceTree = "<group>"; };
+		6C66637621EF4970008163B4 /* autoenpitsukezuri.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = autoenpitsukezuri.sks; sourceTree = "<group>"; };
+		6C66637821EF4B16008163B4 /* tennnennsui.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = tennnennsui.sks; sourceTree = "<group>"; };
+		6C66637A21EFA9A4008163B4 /* tennennsuiAllow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = tennennsuiAllow.sks; sourceTree = "<group>"; };
+		6C66637C21F0282C008163B4 /* autoenpitsukezuriAllow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = autoenpitsukezuriAllow.sks; sourceTree = "<group>"; };
+		6C66637E21F02843008163B4 /* telphoneAllow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = telphoneAllow.sks; sourceTree = "<group>"; };
+		6C9DD24A21E38D0A0049584B /* 1401224.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1401224.png; path = ../../../Desktop/1401224.png; sourceTree = "<group>"; };
 		6CC7000121C0CB03001F7113 /* ARkit object detection pre.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ARkit object detection pre.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CC7000421C0CB03001F7113 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6CC7000621C0CB03001F7113 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -51,10 +71,20 @@
 				6CC7000421C0CB03001F7113 /* AppDelegate.swift */,
 				6CC7000621C0CB03001F7113 /* art.scnassets */,
 				6CC7000821C0CB03001F7113 /* ViewController.swift */,
+				6C66637221EF398C008163B4 /* testAllow.sks */,
 				6CC7000A21C0CB03001F7113 /* Main.storyboard */,
 				6CC7000D21C0CB09001F7113 /* Assets.xcassets */,
 				6CC7000F21C0CB09001F7113 /* LaunchScreen.storyboard */,
 				6CC7001221C0CB09001F7113 /* Info.plist */,
+				6C2358F121C8A13800C4DA49 /* test.sks */,
+				6C9DD24A21E38D0A0049584B /* 1401224.png */,
+				6C23590121D1957400C4DA49 /* yazirusi.sks */,
+				6C66637821EF4B16008163B4 /* tennnennsui.sks */,
+				6C66637A21EFA9A4008163B4 /* tennennsuiAllow.sks */,
+				6C66637421EF47EF008163B4 /* telphone.sks */,
+				6C66637E21F02843008163B4 /* telphoneAllow.sks */,
+				6C66637621EF4970008163B4 /* autoenpitsukezuri.sks */,
+				6C66637C21F0282C008163B4 /* autoenpitsukezuriAllow.sks */,
 			);
 			path = "ARkit object detection pre";
 			sourceTree = "<group>";
@@ -127,7 +157,17 @@
 			files = (
 				6CC7000721C0CB03001F7113 /* art.scnassets in Resources */,
 				6CC7001121C0CB09001F7113 /* LaunchScreen.storyboard in Resources */,
+				6C2358F221C8A13800C4DA49 /* test.sks in Resources */,
+				6C66637721EF4970008163B4 /* autoenpitsukezuri.sks in Resources */,
+				6C66637321EF398C008163B4 /* testAllow.sks in Resources */,
+				6C9DD24B21E38D0A0049584B /* 1401224.png in Resources */,
+				6C66637F21F02843008163B4 /* telphoneAllow.sks in Resources */,
+				6C66637D21F0282C008163B4 /* autoenpitsukezuriAllow.sks in Resources */,
+				6C66637521EF47EF008163B4 /* telphone.sks in Resources */,
+				6C66637921EF4B17008163B4 /* tennnennsui.sks in Resources */,
+				6C66637B21EFA9A4008163B4 /* tennennsuiAllow.sks in Resources */,
 				6CC7000E21C0CB09001F7113 /* Assets.xcassets in Resources */,
+				6C23590221D1957400C4DA49 /* yazirusi.sks in Resources */,
 				6CC7000C21C0CB03001F7113 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

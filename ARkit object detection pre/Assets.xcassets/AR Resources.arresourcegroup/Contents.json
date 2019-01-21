@@ -1,0 +1,47 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "2Spiderman.arobject"
+    },
+    {
+      "filename" : "autoenpitsukezuri.arobject"
+    },
+    {
+      "filename" : "autoenpitsukezuri2.arobject"
+    },
+    {
+      "filename" : "calender.arobject"
+    },
+    {
+      "filename" : "koutyakaden.arobject"
+    },
+    {
+      "filename" : "oiotya.arobject"
+    },
+    {
+      "filename" : "oiotya2.arobject"
+    },
+    {
+      "filename" : "refia.arobject"
+    },
+    {
+      "filename" : "siokosyou.arobject"
+    },
+    {
+      "filename" : "solt.arobject"
+    },
+    {
+      "filename" : "telphone2.arobject"
+    },
+    {
+      "filename" : "tennennsui.arobject"
+    },
+    {
+      "filename" : "urontya.arobject"
+    }
+  ]
+}
