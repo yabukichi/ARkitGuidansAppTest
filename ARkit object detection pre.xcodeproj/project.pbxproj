@@ -9,6 +9,49 @@
 /* Begin PBXBuildFile section */
 		6C2358F221C8A13800C4DA49 /* test.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C2358F121C8A13800C4DA49 /* test.sks */; };
 		6C23590221D1957400C4DA49 /* yazirusi.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C23590121D1957400C4DA49 /* yazirusi.sks */; };
+		6C579AA321FFEB0F000060B4 /* gold_shiser.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AA221FFEB0F000060B4 /* gold_shiser.sks */; };
+		6C579AA921FFEDFB000060B4 /* gold_shiserAllow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AA821FFEDFB000060B4 /* gold_shiserAllow.sks */; };
+		6C579AAB21FFEE10000060B4 /* tomori_shisar.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AAA21FFEE10000060B4 /* tomori_shisar.sks */; };
+		6C579AAD21FFEE1C000060B4 /* tomori_shisarAllow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AAC21FFEE1C000060B4 /* tomori_shisarAllow.sks */; };
+		6C579AB121FFEF53000060B4 /* アセット 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AB021FFEF52000060B4 /* アセット 14.png */; };
+		6C579AB721FFF272000060B4 /* アセット 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AB621FFF272000060B4 /* アセット 16.png */; };
+		6C579AB921FFF640000060B4 /* sisa.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AB821FFF640000060B4 /* sisa.png */; };
+		6C579ABD21FFF8D2000060B4 /* gosamarun.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579ABC21FFF8D2000060B4 /* gosamarun.sks */; };
+		6C579ABF21FFF8E7000060B4 /* gosamarunAllow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579ABE21FFF8E7000060B4 /* gosamarunAllow.sks */; };
+		6C579AC121FFFCFF000060B4 /* アセット 19.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AC021FFFCFF000060B4 /* アセット 19.png */; };
+		6C579AC421FFFE9B000060B4 /* アセット 20.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AC221FFFE9B000060B4 /* アセット 20.png */; };
+		6C579AC521FFFE9B000060B4 /* アセット 21.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AC321FFFE9B000060B4 /* アセット 21.png */; };
+		6C579AC722018928000060B4 /* アセット 18.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AC622018928000060B4 /* アセット 18.png */; };
+		6C579AC922018C9F000060B4 /* アセット 24.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AC822018C9F000060B4 /* アセット 24.png */; };
+		6C579ACB22018D71000060B4 /* アセット 25.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579ACA22018D70000060B4 /* アセット 25.png */; };
+		6C579ACD220191E4000060B4 /* アセット 26.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579ACC220191E4000060B4 /* アセット 26.png */; };
+		6C579ACF22019231000060B4 /* アセット 27.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579ACE22019231000060B4 /* アセット 27.png */; };
+		6C579AD12201957F000060B4 /* アセット 28.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AD02201957E000060B4 /* アセット 28.png */; };
+		6C579AD3220195DC000060B4 /* double_shiser.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AD2220195DC000060B4 /* double_shiser.sks */; };
+		6C579AD522019656000060B4 /* simpleAllow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AD422019656000060B4 /* simpleAllow.sks */; };
+		6C579AD722019833000060B4 /* アセット 29.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AD622019833000060B4 /* アセット 29.png */; };
+		6C579AD922019900000060B4 /* アセット 30.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AD822019900000060B4 /* アセット 30.png */; };
+		6C579ADB2201E858000060B4 /* アセット 33.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579ADA2201E858000060B4 /* アセット 33.png */; };
+		6C579ADF2201E8D7000060B4 /* syurizyou.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579ADE2201E8D7000060B4 /* syurizyou.sks */; };
+		6C579AE22201F17F000060B4 /* アセット 34.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AE02201F17E000060B4 /* アセット 34.png */; };
+		6C579AE32201F17F000060B4 /* アセット 35.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AE12201F17F000060B4 /* アセット 35.png */; };
+		6C579AE52201F3CA000060B4 /* アセット 36.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AE42201F3CA000060B4 /* アセット 36.png */; };
+		6C579AE72202A09B000060B4 /* kuganiudhun.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AE62202A09B000060B4 /* kuganiudhun.sks */; };
+		6C579AE92202A4B4000060B4 /* kinjyutsumesyo.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AE82202A4B4000060B4 /* kinjyutsumesyo.sks */; };
+		6C579AEB2202A4EC000060B4 /* アセット 39.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AEA2202A4EC000060B4 /* アセット 39.png */; };
+		6C579AED2202A4F0000060B4 /* アセット 38.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AEC2202A4F0000060B4 /* アセット 38.png */; };
+		6C579AEF2202A52E000060B4 /* アセット 40.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AEE2202A52E000060B4 /* アセット 40.png */; };
+		6C579AF12202A706000060B4 /* アセット 41.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AF02202A705000060B4 /* アセット 41.png */; };
+		6C579AF322095C66000060B4 /* nakagusukuzyouseki_koukusyasin.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AF222095C66000060B4 /* nakagusukuzyouseki_koukusyasin.sks */; };
+		6C579AF522095C78000060B4 /* katsurenzyouseki.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AF422095C78000060B4 /* katsurenzyouseki.sks */; };
+		6C579AF7220960C3000060B4 /* nakagusukuzyouseki.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AF6220960C3000060B4 /* nakagusukuzyouseki.sks */; };
+		6C579AF9220976E6000060B4 /* アセット 42.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AF8220976E5000060B4 /* アセット 42.png */; };
+		6C579AFB22097774000060B4 /* アセット 43.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AFA22097774000060B4 /* アセット 43.png */; };
+		6C579AFE220984A0000060B4 /* アセット 44.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AFC2209849F000060B4 /* アセット 44.png */; };
+		6C579AFF220984A0000060B4 /* アセット 45.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AFD220984A0000060B4 /* アセット 45.png */; };
+		6C579B0122098860000060B4 /* fire.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579B0022098860000060B4 /* fire.png */; };
+		6C579B03220AE884000060B4 /* アセット 46.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579B02220AE884000060B4 /* アセット 46.png */; };
+		6C579B05220BCF24000060B4 /* アセット 47.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C579B04220BCF24000060B4 /* アセット 47.png */; };
 		6C66637321EF398C008163B4 /* testAllow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C66637221EF398C008163B4 /* testAllow.sks */; };
 		6C66637521EF47EF008163B4 /* telphone.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C66637421EF47EF008163B4 /* telphone.sks */; };
 		6C66637721EF4970008163B4 /* autoenpitsukezuri.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C66637621EF4970008163B4 /* autoenpitsukezuri.sks */; };
@@ -28,6 +71,49 @@
 /* Begin PBXFileReference section */
 		6C2358F121C8A13800C4DA49 /* test.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = test.sks; sourceTree = "<group>"; };
 		6C23590121D1957400C4DA49 /* yazirusi.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = yazirusi.sks; sourceTree = "<group>"; };
+		6C579AA221FFEB0F000060B4 /* gold_shiser.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = gold_shiser.sks; sourceTree = "<group>"; };
+		6C579AA821FFEDFB000060B4 /* gold_shiserAllow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = gold_shiserAllow.sks; sourceTree = "<group>"; };
+		6C579AAA21FFEE10000060B4 /* tomori_shisar.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = tomori_shisar.sks; sourceTree = "<group>"; };
+		6C579AAC21FFEE1C000060B4 /* tomori_shisarAllow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = tomori_shisarAllow.sks; sourceTree = "<group>"; };
+		6C579AB021FFEF52000060B4 /* アセット 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 14.png"; path = "../../../Desktop/アセット 14.png"; sourceTree = "<group>"; };
+		6C579AB621FFF272000060B4 /* アセット 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 16.png"; path = "../../../Desktop/アセット 16.png"; sourceTree = "<group>"; };
+		6C579AB821FFF640000060B4 /* sisa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sisa.png; path = ../../../Desktop/sisa.png; sourceTree = "<group>"; };
+		6C579ABC21FFF8D2000060B4 /* gosamarun.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = gosamarun.sks; sourceTree = "<group>"; };
+		6C579ABE21FFF8E7000060B4 /* gosamarunAllow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = gosamarunAllow.sks; sourceTree = "<group>"; };
+		6C579AC021FFFCFF000060B4 /* アセット 19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 19.png"; path = "../../../Desktop/アセット 19.png"; sourceTree = "<group>"; };
+		6C579AC221FFFE9B000060B4 /* アセット 20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 20.png"; path = "../../../Desktop/アセット 20.png"; sourceTree = "<group>"; };
+		6C579AC321FFFE9B000060B4 /* アセット 21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 21.png"; path = "../../../Desktop/アセット 21.png"; sourceTree = "<group>"; };
+		6C579AC622018928000060B4 /* アセット 18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 18.png"; path = "../../../Desktop/アセット 18.png"; sourceTree = "<group>"; };
+		6C579AC822018C9F000060B4 /* アセット 24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 24.png"; path = "../../../Desktop/アセット 24.png"; sourceTree = "<group>"; };
+		6C579ACA22018D70000060B4 /* アセット 25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 25.png"; path = "../../../Desktop/アセット 25.png"; sourceTree = "<group>"; };
+		6C579ACC220191E4000060B4 /* アセット 26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 26.png"; path = "../../../Desktop/アセット 26.png"; sourceTree = "<group>"; };
+		6C579ACE22019231000060B4 /* アセット 27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 27.png"; path = "../../../Desktop/アセット 27.png"; sourceTree = "<group>"; };
+		6C579AD02201957E000060B4 /* アセット 28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 28.png"; path = "../../../Desktop/アセット 28.png"; sourceTree = "<group>"; };
+		6C579AD2220195DC000060B4 /* double_shiser.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = double_shiser.sks; sourceTree = "<group>"; };
+		6C579AD422019656000060B4 /* simpleAllow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = simpleAllow.sks; sourceTree = "<group>"; };
+		6C579AD622019833000060B4 /* アセット 29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 29.png"; path = "../../../Desktop/アセット 29.png"; sourceTree = "<group>"; };
+		6C579AD822019900000060B4 /* アセット 30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 30.png"; path = "../../../Desktop/アセット 30.png"; sourceTree = "<group>"; };
+		6C579ADA2201E858000060B4 /* アセット 33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 33.png"; path = "../../../Desktop/アセット 33.png"; sourceTree = "<group>"; };
+		6C579ADE2201E8D7000060B4 /* syurizyou.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = syurizyou.sks; sourceTree = "<group>"; };
+		6C579AE02201F17E000060B4 /* アセット 34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 34.png"; path = "../../../Desktop/アセット 34.png"; sourceTree = "<group>"; };
+		6C579AE12201F17F000060B4 /* アセット 35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 35.png"; path = "../../../Desktop/アセット 35.png"; sourceTree = "<group>"; };
+		6C579AE42201F3CA000060B4 /* アセット 36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 36.png"; path = "../../../Desktop/アセット 36.png"; sourceTree = "<group>"; };
+		6C579AE62202A09B000060B4 /* kuganiudhun.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = kuganiudhun.sks; sourceTree = "<group>"; };
+		6C579AE82202A4B4000060B4 /* kinjyutsumesyo.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = kinjyutsumesyo.sks; sourceTree = "<group>"; };
+		6C579AEA2202A4EC000060B4 /* アセット 39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 39.png"; path = "../../../Desktop/アセット 39.png"; sourceTree = "<group>"; };
+		6C579AEC2202A4F0000060B4 /* アセット 38.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 38.png"; path = "../../../Desktop/アセット 38.png"; sourceTree = "<group>"; };
+		6C579AEE2202A52E000060B4 /* アセット 40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 40.png"; path = "../../../Desktop/アセット 40.png"; sourceTree = "<group>"; };
+		6C579AF02202A705000060B4 /* アセット 41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 41.png"; path = "../../../Desktop/アセット 41.png"; sourceTree = "<group>"; };
+		6C579AF222095C66000060B4 /* nakagusukuzyouseki_koukusyasin.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = nakagusukuzyouseki_koukusyasin.sks; sourceTree = "<group>"; };
+		6C579AF422095C78000060B4 /* katsurenzyouseki.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = katsurenzyouseki.sks; sourceTree = "<group>"; };
+		6C579AF6220960C3000060B4 /* nakagusukuzyouseki.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = nakagusukuzyouseki.sks; sourceTree = "<group>"; };
+		6C579AF8220976E5000060B4 /* アセット 42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 42.png"; path = "../../../Desktop/アセット 42.png"; sourceTree = "<group>"; };
+		6C579AFA22097774000060B4 /* アセット 43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 43.png"; path = "../../../Desktop/アセット 43.png"; sourceTree = "<group>"; };
+		6C579AFC2209849F000060B4 /* アセット 44.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 44.png"; path = "../../../Desktop/アセット 44.png"; sourceTree = "<group>"; };
+		6C579AFD220984A0000060B4 /* アセット 45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 45.png"; path = "../../../Desktop/アセット 45.png"; sourceTree = "<group>"; };
+		6C579B0022098860000060B4 /* fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fire.png; path = ../../../Desktop/fire.png; sourceTree = "<group>"; };
+		6C579B02220AE884000060B4 /* アセット 46.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 46.png"; path = "../../../Desktop/アセット 46.png"; sourceTree = "<group>"; };
+		6C579B04220BCF24000060B4 /* アセット 47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット 47.png"; path = "../../../Desktop/アセット 47.png"; sourceTree = "<group>"; };
 		6C66637221EF398C008163B4 /* testAllow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = testAllow.sks; sourceTree = "<group>"; };
 		6C66637421EF47EF008163B4 /* telphone.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = telphone.sks; sourceTree = "<group>"; };
 		6C66637621EF4970008163B4 /* autoenpitsukezuri.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = autoenpitsukezuri.sks; sourceTree = "<group>"; };
@@ -85,6 +171,49 @@
 				6C66637E21F02843008163B4 /* telphoneAllow.sks */,
 				6C66637621EF4970008163B4 /* autoenpitsukezuri.sks */,
 				6C66637C21F0282C008163B4 /* autoenpitsukezuriAllow.sks */,
+				6C579B04220BCF24000060B4 /* アセット 47.png */,
+				6C579AB021FFEF52000060B4 /* アセット 14.png */,
+				6C579AB621FFF272000060B4 /* アセット 16.png */,
+				6C579AC622018928000060B4 /* アセット 18.png */,
+				6C579AC021FFFCFF000060B4 /* アセット 19.png */,
+				6C579AC221FFFE9B000060B4 /* アセット 20.png */,
+				6C579AC321FFFE9B000060B4 /* アセット 21.png */,
+				6C579AC822018C9F000060B4 /* アセット 24.png */,
+				6C579ACA22018D70000060B4 /* アセット 25.png */,
+				6C579ACC220191E4000060B4 /* アセット 26.png */,
+				6C579ACE22019231000060B4 /* アセット 27.png */,
+				6C579AD02201957E000060B4 /* アセット 28.png */,
+				6C579AD622019833000060B4 /* アセット 29.png */,
+				6C579AD822019900000060B4 /* アセット 30.png */,
+				6C579ADA2201E858000060B4 /* アセット 33.png */,
+				6C579AE02201F17E000060B4 /* アセット 34.png */,
+				6C579AE12201F17F000060B4 /* アセット 35.png */,
+				6C579AE42201F3CA000060B4 /* アセット 36.png */,
+				6C579AEC2202A4F0000060B4 /* アセット 38.png */,
+				6C579AEA2202A4EC000060B4 /* アセット 39.png */,
+				6C579AEE2202A52E000060B4 /* アセット 40.png */,
+				6C579AF02202A705000060B4 /* アセット 41.png */,
+				6C579AF8220976E5000060B4 /* アセット 42.png */,
+				6C579AFA22097774000060B4 /* アセット 43.png */,
+				6C579AFC2209849F000060B4 /* アセット 44.png */,
+				6C579AFD220984A0000060B4 /* アセット 45.png */,
+				6C579B02220AE884000060B4 /* アセット 46.png */,
+				6C579B0022098860000060B4 /* fire.png */,
+				6C579AB821FFF640000060B4 /* sisa.png */,
+				6C579ABE21FFF8E7000060B4 /* gosamarunAllow.sks */,
+				6C579AAC21FFEE1C000060B4 /* tomori_shisarAllow.sks */,
+				6C579AA821FFEDFB000060B4 /* gold_shiserAllow.sks */,
+				6C579AE62202A09B000060B4 /* kuganiudhun.sks */,
+				6C579AAA21FFEE10000060B4 /* tomori_shisar.sks */,
+				6C579AA221FFEB0F000060B4 /* gold_shiser.sks */,
+				6C579AD2220195DC000060B4 /* double_shiser.sks */,
+				6C579AF222095C66000060B4 /* nakagusukuzyouseki_koukusyasin.sks */,
+				6C579AF6220960C3000060B4 /* nakagusukuzyouseki.sks */,
+				6C579AF422095C78000060B4 /* katsurenzyouseki.sks */,
+				6C579AE82202A4B4000060B4 /* kinjyutsumesyo.sks */,
+				6C579ABC21FFF8D2000060B4 /* gosamarun.sks */,
+				6C579ADE2201E8D7000060B4 /* syurizyou.sks */,
+				6C579AD422019656000060B4 /* simpleAllow.sks */,
 			);
 			path = "ARkit object detection pre";
 			sourceTree = "<group>";
@@ -155,20 +284,63 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C579AEB2202A4EC000060B4 /* アセット 39.png in Resources */,
+				6C579AF522095C78000060B4 /* katsurenzyouseki.sks in Resources */,
+				6C579AF7220960C3000060B4 /* nakagusukuzyouseki.sks in Resources */,
 				6CC7000721C0CB03001F7113 /* art.scnassets in Resources */,
+				6C579AF9220976E6000060B4 /* アセット 42.png in Resources */,
 				6CC7001121C0CB09001F7113 /* LaunchScreen.storyboard in Resources */,
 				6C2358F221C8A13800C4DA49 /* test.sks in Resources */,
+				6C579AAD21FFEE1C000060B4 /* tomori_shisarAllow.sks in Resources */,
 				6C66637721EF4970008163B4 /* autoenpitsukezuri.sks in Resources */,
+				6C579AE22201F17F000060B4 /* アセット 34.png in Resources */,
+				6C579AEF2202A52E000060B4 /* アセット 40.png in Resources */,
 				6C66637321EF398C008163B4 /* testAllow.sks in Resources */,
+				6C579B05220BCF24000060B4 /* アセット 47.png in Resources */,
+				6C579AB721FFF272000060B4 /* アセット 16.png in Resources */,
+				6C579AD522019656000060B4 /* simpleAllow.sks in Resources */,
+				6C579ABF21FFF8E7000060B4 /* gosamarunAllow.sks in Resources */,
+				6C579AFB22097774000060B4 /* アセット 43.png in Resources */,
+				6C579B03220AE884000060B4 /* アセット 46.png in Resources */,
 				6C9DD24B21E38D0A0049584B /* 1401224.png in Resources */,
 				6C66637F21F02843008163B4 /* telphoneAllow.sks in Resources */,
+				6C579AFE220984A0000060B4 /* アセット 44.png in Resources */,
+				6C579AB921FFF640000060B4 /* sisa.png in Resources */,
+				6C579AE32201F17F000060B4 /* アセット 35.png in Resources */,
 				6C66637D21F0282C008163B4 /* autoenpitsukezuriAllow.sks in Resources */,
+				6C579AE52201F3CA000060B4 /* アセット 36.png in Resources */,
 				6C66637521EF47EF008163B4 /* telphone.sks in Resources */,
+				6C579AC922018C9F000060B4 /* アセット 24.png in Resources */,
+				6C579ADF2201E8D7000060B4 /* syurizyou.sks in Resources */,
+				6C579AC521FFFE9B000060B4 /* アセット 21.png in Resources */,
+				6C579ACF22019231000060B4 /* アセット 27.png in Resources */,
+				6C579ACD220191E4000060B4 /* アセット 26.png in Resources */,
+				6C579AF322095C66000060B4 /* nakagusukuzyouseki_koukusyasin.sks in Resources */,
 				6C66637921EF4B17008163B4 /* tennnennsui.sks in Resources */,
+				6C579AE92202A4B4000060B4 /* kinjyutsumesyo.sks in Resources */,
+				6C579AF12202A706000060B4 /* アセット 41.png in Resources */,
+				6C579AA321FFEB0F000060B4 /* gold_shiser.sks in Resources */,
 				6C66637B21EFA9A4008163B4 /* tennennsuiAllow.sks in Resources */,
+				6C579ABD21FFF8D2000060B4 /* gosamarun.sks in Resources */,
+				6C579AC722018928000060B4 /* アセット 18.png in Resources */,
+				6C579ACB22018D71000060B4 /* アセット 25.png in Resources */,
 				6CC7000E21C0CB09001F7113 /* Assets.xcassets in Resources */,
+				6C579AAB21FFEE10000060B4 /* tomori_shisar.sks in Resources */,
 				6C23590221D1957400C4DA49 /* yazirusi.sks in Resources */,
+				6C579AFF220984A0000060B4 /* アセット 45.png in Resources */,
 				6CC7000C21C0CB03001F7113 /* Main.storyboard in Resources */,
+				6C579AA921FFEDFB000060B4 /* gold_shiserAllow.sks in Resources */,
+				6C579AC421FFFE9B000060B4 /* アセット 20.png in Resources */,
+				6C579AE72202A09B000060B4 /* kuganiudhun.sks in Resources */,
+				6C579AD3220195DC000060B4 /* double_shiser.sks in Resources */,
+				6C579AD922019900000060B4 /* アセット 30.png in Resources */,
+				6C579B0122098860000060B4 /* fire.png in Resources */,
+				6C579AD12201957F000060B4 /* アセット 28.png in Resources */,
+				6C579AED2202A4F0000060B4 /* アセット 38.png in Resources */,
+				6C579AD722019833000060B4 /* アセット 29.png in Resources */,
+				6C579AC121FFFCFF000060B4 /* アセット 19.png in Resources */,
+				6C579ADB2201E858000060B4 /* アセット 33.png in Resources */,
+				6C579AB121FFEF53000060B4 /* アセット 14.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

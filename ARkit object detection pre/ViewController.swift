@@ -53,14 +53,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         sceneView.session.pause()
     }
     
-    func objectDescription(){
-        
-    }
-    
-    func guideArrow(){
-        
-    }
-    
     // MARK: - ARSCNViewDelegate
     
     func renderer(_ renderer: SCNSceneRenderer, nodeFor anchor: ARAnchor) -> SCNNode? {
@@ -73,8 +65,8 @@ class ViewController: UIViewController, ARSCNViewDelegate {
             
 //            let test = "test"
             let objectName = objectAnchor.name!
-            var objectNames : [String : String] = ["2Spiderman" : "スパイダーマン","siokosyou" : "test","autoenpitsukezuri" : "autoenpitsukezuri","autoenpitsukezuri2" : "autoenpitsukezuri","telphone" : "telphone","tennennsui" : "tennnennsui","telphone2" : "telphone"]
-            var objectAllows : [String : String] = ["2Spiderman" : "スパイダーマン","siokosyou" : "testAllow","autoenpitsukezuri" : "autoenpitsukezuriAllow","autoenpitsukezuri2" : "autoenpitsukezuriAllow","telphone" : "telphoneAllow","telphone2" : "telphoneAllow","tennennsui" : "tennennsuiAllow"]
+            var objectNames : [String : String] = ["2Spiderman" : "スパイダーマン","siokosyou" : "test","autoenpitsukezuri" : "autoenpitsukezuri","autoenpitsukezuri2" : "autoenpitsukezuri","telphone" : "telphone","tennennsui" : "tennnennsui","telphone2" : "telphone","kuganiudhun" : "kuganiudhun","gold_shiser" : "gold_shiser","gold_shiser2" : "gold_shiser","gold_shiser3" : "gold_shiser","gold_shiser4" : "gold_shiser","gold_shiser5" : "gold_shiser","gold_shiser6" : "gold_shiser","gold_shiser7" : "gold_shiser","double_shiser" : "double_shiser","double_shiser2" : "double_shiser","tomori_shisar" : "tomori_shisar","katsurenzyouseki" : "katsurenzyouseki","katsurenzyouseki2" : "katsurenzyouseki","nakagusukuzyouseki_koukusyasin" : "nakagusukuzyouseki_koukusyasin","nakagusukuzyouseki" : "nakagusukuzyouseki","nakagusukuzyouseki1" : "nakagusukuzyouseki","nakagusukuzyouseki2" : "nakagusukuzyouseki_koukusyasin","kinjyutsumesyo" : "kinjyutsumesyo","gosamarun" : "gosamarun","syurizyou" : "syurizyou"]
+            var objectAllows : [String : String] = ["2Spiderman" : "スパイダーマン","siokosyou" : "testAllow","autoenpitsukezuri" : "autoenpitsukezuriAllow","autoenpitsukezuri2" : "autoenpitsukezuriAllow","telphone" : "telphoneAllow","telphone2" : "telphoneAllow","tennennsui" : "tennennsuiAllow","kuganiudhun" : "simpleAllow","gold_shiser" : "simpleAllow","gold_shiser2" : "simpleAllow","gold_shiser3" : "simpleAllow","gold_shiser4" : "simpleAllow","gold_shiser5" : "simpleAllow","gold_shiser6" : "simpleAllow","gold_shiser7" : "simpleAllow","double_shiser" : "simpleAllow","double_shiser2" : "simpleAllow","tomori_shisar" : "simpleAllow","katsurenzyouseki" : "simpleAllow","katsurenzyouseki2" : "simpleAllow","nakagusukuzyouseki_koukusyasin" : "simpleAllow","nakagusukuzyouseki" : "simpleAllow","nakagusukuzyouseki1" : "simpleAllow","nakagusukuzyouseki2" : "simpleAllow","kinjyutsumesyo" : "simpleAllow","gosamarun" : "simpleAllow","syurizyou" : "simpleAllow"]
             print("オブジェクトの名前は「" + objectName + "」")
             print("配列から取得してきた値は「" + objectNames[objectName]! + "」")
             print("配列から取得してきた値は「" + objectAllows[objectName]! + "」")
@@ -86,7 +78,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
             plane.firstMaterial?.diffuse.contentsTransform = SCNMatrix4Translate(SCNMatrix4MakeScale(1, -1, 1), 0, 1, 0) //コンテンツの表示位置の変更。
             
             let planeNode = SCNNode(geometry: plane)
-            planeNode.position = SCNVector3Make(objectAnchor.referenceObject.center.x, objectAnchor.referenceObject.center.y + 0.1, objectAnchor.referenceObject.center.z) //planeNodeの位置を決定する。ちなみにplaneでは大きさのみを決定している。
+            planeNode.position = SCNVector3Make(objectAnchor.referenceObject.center.x, objectAnchor.referenceObject.center.y + 0.01, objectAnchor.referenceObject.center.z) //planeNodeの位置を決定する。ちなみにplaneでは大きさのみを決定している。
             
             let billboardConstraints = SCNBillboardConstraint()
             planeNode.constraints = [billboardConstraints]
