@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		6C2358F221C8A13800C4DA49 /* test.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C2358F121C8A13800C4DA49 /* test.sks */; };
 		6C23590221D1957400C4DA49 /* yazirusi.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C23590121D1957400C4DA49 /* yazirusi.sks */; };
+		6C517F8E221AAFB100C0AAAE /* アセット48.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C517F8D221AAFB100C0AAAE /* アセット48.png */; };
 		6C579AA321FFEB0F000060B4 /* gold_shiser.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AA221FFEB0F000060B4 /* gold_shiser.sks */; };
 		6C579AA921FFEDFB000060B4 /* gold_shiserAllow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AA821FFEDFB000060B4 /* gold_shiserAllow.sks */; };
 		6C579AAB21FFEE10000060B4 /* tomori_shisar.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6C579AAA21FFEE10000060B4 /* tomori_shisar.sks */; };
@@ -71,6 +72,7 @@
 /* Begin PBXFileReference section */
 		6C2358F121C8A13800C4DA49 /* test.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = test.sks; sourceTree = "<group>"; };
 		6C23590121D1957400C4DA49 /* yazirusi.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = yazirusi.sks; sourceTree = "<group>"; };
+		6C517F8D221AAFB100C0AAAE /* アセット48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "アセット48.png"; path = "../../../Desktop/アセット48.png"; sourceTree = "<group>"; };
 		6C579AA221FFEB0F000060B4 /* gold_shiser.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = gold_shiser.sks; sourceTree = "<group>"; };
 		6C579AA821FFEDFB000060B4 /* gold_shiserAllow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = gold_shiserAllow.sks; sourceTree = "<group>"; };
 		6C579AAA21FFEE10000060B4 /* tomori_shisar.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = tomori_shisar.sks; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 				6C579AFC2209849F000060B4 /* アセット 44.png */,
 				6C579AFD220984A0000060B4 /* アセット 45.png */,
 				6C579B02220AE884000060B4 /* アセット 46.png */,
+				6C517F8D221AAFB100C0AAAE /* アセット48.png */,
 				6C579B0022098860000060B4 /* fire.png */,
 				6C579AB821FFF640000060B4 /* sisa.png */,
 				6C579ABE21FFF8E7000060B4 /* gosamarunAllow.sks */,
@@ -325,6 +328,7 @@
 				6C579AC722018928000060B4 /* アセット 18.png in Resources */,
 				6C579ACB22018D71000060B4 /* アセット 25.png in Resources */,
 				6CC7000E21C0CB09001F7113 /* Assets.xcassets in Resources */,
+				6C517F8E221AAFB100C0AAAE /* アセット48.png in Resources */,
 				6C579AAB21FFEE10000060B4 /* tomori_shisar.sks in Resources */,
 				6C23590221D1957400C4DA49 /* yazirusi.sks in Resources */,
 				6C579AFF220984A0000060B4 /* アセット 45.png in Resources */,
